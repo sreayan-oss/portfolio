@@ -42,7 +42,7 @@ export const getProjects = (darkMode) => [
         title: "DB Uploader",
         tech: ["Golang", "Concurrency", "PostgreSQL"],
         desc: "High-performance Go application designed to efficiently read large JSON datasets and upload them to a database using concurrent workers.",
-        link: "#",
+        link: "https://github.com/sreayan-oss/db-uploader",
         status: "active",
         icon: <Database className={darkMode ? "text-[#cba6f7]" : "text-[#8839ef]"} /> // Purple
     },
