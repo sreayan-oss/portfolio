@@ -31,7 +31,7 @@ const Hero = ({ theme, scrollToSection, darkMode }) => {
                             Contact Me
                         </a>
                         <a
-                            href="https://drive.google.com/file/d/1uFmsvb5F8CCTGDQr2qcPn1dhgKxBBSXV/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1iq9N44IIcD8nm_C4PmX2EEZMTn5Xk9zw/view?usp=sharing"
                             target="_blank"
                             rel="noopener noreferrer"
                             className={`px-8 py-4 rounded-lg font-bold border transition-all duration-300 hover:-translate-y-1 hover:shadow-lg flex items-center gap-2 ${theme.border} hover:border-[#fab387] hover:bg-[#fab387]/10`}
